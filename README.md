@@ -3,4 +3,5 @@ This project aims to use python to examine Bay Area housing cost burden and inco
 
 # Data Source and Geographic Scope:
 Data: US Census data ACS 5 Year estimate - from 2024
-\n Geographical Inclusions: San Francisco Bay Area (9 counties): Alameda, Contra Costa, Marin, Napa, San Mateo, Santa Clara, Solano, Sonoma, and San Francisco
+
+Geographical Inclusions: San Francisco Bay Area (9 counties): Alameda, Contra Costa, Marin, Napa, San Mateo, Santa Clara, Solano, Sonoma, and San Francisco
