@@ -3,7 +3,7 @@ This project aims to use python to examine Bay Area housing cost burden and inco
 
 # Data Source and Geographic Scope:
 
-Data: US Census data ACS 5 Year estimate - Data source collected - 2024 
+Data: US Census data ACS 5 Year estimate - Data source collected 2024 
 
 Geographical Unit: Counties
 
