@@ -15,7 +15,11 @@ Geographical Unit: Counties
 
 Inclusions: San Francisco Bay Area (9 counties): Alameda, Contra Costa, Marin, Napa, San Mateo, Santa Clara, Solano, Sonoma, and San Francisco. The project carves out data only from these 9 counties for calculations and conclusions.
 
-Coordinate System for Mapping: NAD83
+Coordinate System for Mapping: NAD83 positions
 
-### test
+## Limitations
+
+1.The 5 Year estimates only represent the recent housing ratios and appearences of the Bay Area. With recent social factors, the pandemic and its following economic crisis, income data and house purchasing desire might shift within the past five years.
+
+2.The calculations only represents housing situation in the Bay Area. Within these 9 counties, housing cost vary in a large range as well as residents' average income. This project is only a simple estimate of the data, and the method is only calculating the big picture of trend in Bay Area housing. Each county have their own housing policy adjustments, subsidies, affordable housing, and seller and buyer protection laws. All factors can lead to slightly different outcomes that cannot be reflected by this collective estimation.
 
