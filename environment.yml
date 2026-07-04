@@ -2,16 +2,12 @@ name: dighum101-housing
 channels:
   - conda-forge
 dependencies:
-  - python=3.14
+  - python=3.9.13
   - pandas
   - numpy
   - geopandas
   - shapely
   - matplotlib
-  - seaborn
-  - mapclassify
-  - folium
-  - requests
   - jupyter
   - notebook
   - pip
