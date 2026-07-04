@@ -15,7 +15,7 @@ Geographical Unit: Counties
 
 Inclusions: San Francisco Bay Area (9 counties): Alameda, Contra Costa, Marin, Napa, San Mateo, Santa Clara, Solano, Sonoma, and San Francisco. The project carves out data only from these 9 counties for calculations and conclusions.
 
-Coordinate System for Mapping: NAD83 positions
+Coordinate System for Mapping: NAD83 positions, U.S. Standard
 
 ## Limitations
 
